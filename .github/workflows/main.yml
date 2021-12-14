@@ -55,4 +55,4 @@ jobs:
         uses: docker/build-push-action@v2 
         with:
           push: true
-          tags: sogainame/sogainame/praktikum:latest 
+          tags: sogainame/praktikum:latest 
